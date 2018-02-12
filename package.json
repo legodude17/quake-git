@@ -1,0 +1,21 @@
+{
+  "name": "quake-git",
+  "version": "0.0.0",
+  "description": "Git extension of quake",
+  "main": "index.js",
+  "dependencies": {
+    "quake-run": "^1.1.0"
+  },
+  "devDependencies": {
+    "quake-task": "file:../quake"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quake",
+    "git"
+  ],
+  "author": "JDB",
+  "license": "MIT"
+}
